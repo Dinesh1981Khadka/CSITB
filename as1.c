@@ -1,5 +1,6 @@
 /*WAP to read records of N students and then display it in tabular format. Suppose records 
 of following fields roll, name, gender, marks in computer and marks in English.
+added on 2024-03-27
 */
 #include<stdio.h>
 #include<conio.h>
